@@ -16,7 +16,7 @@ const Footer = () => {
         ))}
       </div>
       <p className="mt-8 text-center tracking-tighter text-neutral-500">
-        &copy; Built by Shubhojit Mitra
+        &copy; Built by Khushi Malik
       </p>
     </div>
   );
